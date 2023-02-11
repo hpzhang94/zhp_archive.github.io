@@ -8,11 +8,11 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Haopeng Zhang
   avatar: bio-photo.jpg
-  bio: "Computer Science Ph.D candidate at University of California, Davis."
-  email: #haopeng@ifmlab.org
+  bio: "CS Ph.D candidate at University of California, Davis."
+  email: haopeng@ifmlab.org
   # Do not include the @ symbol in your Twitter username
 # twitter: #username
-  linkedin: #username
+  linkedin: haopeng-zhang-425aa012b
   github: hpzhang94
 #   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+highlight-color: '#022851'
+lowlight-color: '#FFBF00'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
