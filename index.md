@@ -1,6 +1,8 @@
 ---
 layout: home
 excerpt: "Haopeng Zhang's Homepage"
+menutitle: Home
+menuorder: 1
 ---
 
 I am a Computer Science Ph.D candidate at UC Davis, working with [Prof. Jiawei Zhang](http://jiaweizhang.net/).
