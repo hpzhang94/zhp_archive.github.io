@@ -5,7 +5,7 @@ layout: home
 menuorder: 1
 ---
 
-I am a computer science Ph.D candidate at UC Davis, working with <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>. Take a look at <a href="./Haopeng_Resume.pdf">my CV</a>.
+I am a computer science Ph.D candidate at UC Davis, working with <a href="http://jiaweizhang.net/"></a>Dr. Jiawei Zhang. Take a look at <a href="./Haopeng_Resume.pdf">my CV</a>.
 
 My research interests lie in building graph models for natural language processing tasks. My recent work has focused on both extractive and abstractive summarization. In my spare time, I am fond of movies, video games, and traveling.
 

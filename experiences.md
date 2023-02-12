@@ -55,7 +55,7 @@ layout: page
         Multi-document Summarization
     </li>
     <li>
-        Mentored by <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ">Dr. Sangwoo Cho, Dr. Kaiqiang Song</a>
+        Mentored by <a href="https://sangwoo3.github.io/">Dr. Sangwoo Cho, <a href="https://scholar.google.com/citations?user=PHoJwakAAAAJ&hl=en">Dr. Kaiqiang Song</a>
     </li>
 </ul>
 
@@ -73,7 +73,7 @@ Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl
 </li>
 </ul>
 
-<b> Kidswant Compnay</b> - Nanjing, China
+<b> Kidswant CompaNy</b> - Nanjing, China
 <ul>
 <li>
     Data mining intern (May 2018 - Aug. 2018)

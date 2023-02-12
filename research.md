@@ -6,7 +6,7 @@ title: Publications
 ## Manuscripts (In submission)
 <ol>
 <li> Diffusum: Generation enhanced extractive summarization with diffusion
-<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. 2022. </li>
+<br><b>Haopeng Zhang*</b>, Xiao Liu*, Jiawei Zhang. 2023. </li>
 <li> Scientific document summarization via contrastive
 hierarchical graph neural network
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. 2022. </li>
