@@ -3,61 +3,57 @@ title: Experiences
 layout: page
 ---
 
+## Educational Background
+
+<b> Computer Science Ph.D. Candidate at University of California, Davis </b> - (Davis, CA, USA)
+<ul>
+    <li>
+        Mentored by <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>
+    </li>
+</ul>
+
+<b> M.S. in Computational Science and Engineeering & Electrical engineering at Georgia Institute of Technology</b> - (Atlanta, GA, USA)
+<ul>
+   <li>
+        M.S. in Computational Science and Engineeering
+    </li>
+       <li>
+        M.S. in Electrical engineerin
+    </li>
+</ul>
+<b> University of Illinois, Urbana and Champaign</b> - (Urbana, IL, USA)
+<ul>
+    <li>
+        B.E. in Electrical engineering
+    </li>
+</ul>
 
 ## Industrial
 
 <b> Tencent America </b> - Tencent AI Lab (Bellevue, WA, USA)
 <ul>
     <li>
-        Research Intern (May 2022 - Aug 2022)
+        Research Intern (June 2022 - Sep. 2022)
     </li>
     <li>
-        Multi-Channel Audio-visual Speaker Diarization
+        Multi-document Summarization
     </li>
     <li>
-        Mentored by <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ">Dr. Shi-Xiong Zhang</a>
+        Mentored by <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ">Dr. Sangwoo Cho, Dr. Kaiqiang Song</a>
     </li>
 </ul>
 
 
-<b> Bytedance / Tiktok </b> - Speech, Audio & Music Intelligence (Mountain View, CA, USA)
+<b> Salesforce </b> - Salesforce Research (Remote, USA)
 <ul>
 <li>
-    Research Intern (May 2021 - Aug 2021)
+    Research Intern (May 2021 - Aug. 2021)
 </li>
 <li>
-    Audio-visual Active Speaker Detection
+    Abstractive summarization faithfulness
 </li>
 <li>
-Mentored by <a href="https://scholar.google.com/citations?user=5BusdUwAAAAJ">Dr. Ming Tu</a>
-</li>
-</ul>
-
-
-<b> Tencent </b> - Tencent Media Lab (Shenzhen, Guangdong, China)
-<ul>
-    <li>
-        Research Intern (Jun 2019 - Aug 2019)
-    </li>
-    <li>
-        Perceptual Loss Design for Mask-based Speech Enhancement
-    </li>
-    <li>
-Mentored by <a href="https://scholar.google.com/citations?user=NGejHPcAAAAJ">Dr. Yannan Wang</a>
-</li>
-</ul>
-
-
-<b> Momenta.ai </b> - Level4 Urban Autonomous Driving (Suzhou, Jiangsu, China)
-<ul>
-    <li>
-        R&D Intern (Mar 2019 - Jun 2019)
-    </li>
-    <li>
-        Vehicle Behavioral Prediction with Urban Vehicle Trajectory Data
-    </li>
-    <li>
-Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnhH-cAAAAJ">Dr. Jie Chen</a>
+Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl=en">Dr. Samih Yavuz</a>
 </li>
 </ul>
 
@@ -78,15 +74,7 @@ Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnh
 
 `Fall 2019` ECE 216 Microprocessor & Data Conversion 
 
-### Students Mentored
 
-**Yongyi (Colin) Zang**, Audio & Music Engineering Undergrad@UR
-
-**Siwen (Sivan) Ding**, Data Science Master@Columbia
-
-**Abudukelimu Wuerkaixi**, PhD student@Tsinghua
-
-**Xinhui Chen**, Computer Science Master@UR, Next Move: PhD student@Lehigh
 
 
 ## Services
@@ -100,9 +88,6 @@ Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnh
 
 * Imaging Science Journal
 
-### Co-chaired
-
-* [Western New York Virtual and Augmented Reality Mini-Conference 2022](https://www.rochester.edu/augmented-virtual-reality/news-events/conference.html)
 
 
 
