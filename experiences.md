@@ -55,7 +55,7 @@ layout: page
         Multi-document Summarization
     </li>
     <li>
-        Mentored by <a href="https://sangwoo3.github.io/">Dr. Sangwoo Cho, <a href="https://scholar.google.com/citations?user=PHoJwakAAAAJ&hl=en">Dr. Kaiqiang Song</a>
+        Mentored by <a href="https://sangwoo3.github.io/">Dr. Sangwoo Cho</a>, <a href="https://scholar.google.com/citations?user=PHoJwakAAAAJ&hl=en">Dr. Kaiqiang Song</a>
     </li>
 </ul>
 

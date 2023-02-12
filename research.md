@@ -6,13 +6,13 @@ title: Publications
 ## Manuscripts (In submission)
 <ol>
 <li> Diffusum: Generation enhanced extractive summarization with diffusion
-<br><b>Haopeng Zhang*</b>, Xiao Liu*, Jiawei Zhang. 2023. </li>
+<br><b>Haopeng Zhang*</b>, Xiao Liu, Jiawei Zhang. 2023. </li>
 <li> Scientific document summarization via contrastive
 hierarchical graph neural network
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. 2022. </li>
 <li> Unsupervised multi-document
 summarization with holistic inference
-<br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Jiawei Zhang, Yu Dong. 2022. </li>
+<br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Xiaoyang Wang, Hongwei Wang, Jiawei Zhang, Dong Yu. 2022. </li>
 </ol>
 
 ## Preprints

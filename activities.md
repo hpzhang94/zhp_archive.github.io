@@ -27,9 +27,13 @@ layout: page
 * IEEE Transactions on Big Data, Artificial Intelligence Review, Computer Speech & Language
 
 
+## Awards
 
 
-
+* FSU Travel Award 2020
+* Adelaide D. Wilson Graduate Fellowship Endowment Fund 2019
+* Russell E. Berthold Scholarship 
+* Dean's List 
 
 
 
