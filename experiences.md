@@ -5,14 +5,18 @@ layout: page
 
 ## Educational Background
 
-<b> Computer Science Ph.D. Candidate at University of California, Davis </b> - (Davis, CA, USA)
+<b>  University of California, Davis </b> - (Davis, CA, USA)
 <ul>
+<li>
+    Ph.D. Candidate in Computer Science
+    </li>
+
     <li>
         Mentored by <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>
     </li>
 </ul>
 
-<b> M.S. in Computational Science and Engineeering & Electrical engineering at Georgia Institute of Technology</b> - (Atlanta, GA, USA)
+<b> Georgia Institute of Technology</b> - (Atlanta, GA, USA)
 <ul>
    <li>
         M.S. in Computational Science and Engineeering
@@ -30,6 +34,16 @@ layout: page
 
 ## Industrial
 
+<b> Megagon Lab </b> -  (Mountain View, CA, USA)
+<ul>
+    <li>
+        Incoming research intern (June 2023 - Sep. 2023)
+    </li>
+    <li>
+        TBD
+    </li>
+</ul>
+
 <b> Tencent America </b> - Tencent AI Lab (Bellevue, WA, USA)
 <ul>
     <li>
@@ -44,7 +58,7 @@ layout: page
 </ul>
 
 
-<b> Salesforce </b> - Salesforce Research (Remote, USA)
+<b> Salesforce Research </b> - (Remote, USA)
 <ul>
 <li>
     Research Intern (May 2021 - Aug. 2021)
@@ -57,6 +71,21 @@ Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl
 </li>
 </ul>
 
+<b> Kidswant Compnay</b> - (Nanjing, China)
+<ul>
+<li>
+    Data mining intern (May 2018 - Aug. 2018)
+</li>
+<li>
+    Abstractive summarization faithfulness
+</li>
+<li>
+Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl=en">Dr. Samih Yavuz</a>
+</li>
+</ul>
+
+
+
 
 ## Teaching
 
@@ -64,11 +93,11 @@ Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl
 
 `Fall 2022` ECE 440 Introduction to Random Processes 
 
-`Spring 2022` ECE 208/408  The Art of Machine Learning (Also gave a [guest lecture](https://youtu.be/trRkNKNM5aE))
+`Spring 2022` ECE 208/408  The Art of Machine Learning 
 
 `Spring 2021` ECE 272/472 Audio Signal Processing 
 
-`Fall 2020` ECE 477 Computer Audition (Also gave a [guest lecture](./contents/GuestLec_Neil_ECE477_Fall2021.pdf))
+`Fall 2020` ECE 477 Computer Audition 
 
 `Spring 2020` ECE 272/472 Audio Signal Processing 
 
