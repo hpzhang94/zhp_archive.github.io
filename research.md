@@ -4,57 +4,36 @@ title: Publications
 ---
 
 ## Manuscripts (In submission)
+<ol>
+<li> Diffusum: Generation enhanced extractive summarization with diffusion
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. 2022. </li>
+<li> Scientific document summarization via contrastive
+hierarchical graph neural network
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. 2022. </li>
+<li> Unsupervised multi-document
+summarization with holistic inference
+<br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Jiawei Zhang, Yu Dong. 2022. </li>
+
+</ol>
 
 ## Preprints
+<ol>
+<li> <a href = "https://arxiv.org/abs/2001.05140" target="_blank">Graph-Bert: Only Attention is Needed for Learning Graph Representations
+</a><br>Jiawei Zhang, <b>Haopeng Zhang</b>, Sun, Li and Xia, Congying. arXiv preprint arXiv:2001.05140.
+
+</ol>
 
 ## Conferences
-<ul>
+<ol>
 <li> HEGEL: Hypergraph Transformer for Long Document Summarization
-</a><br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2022. </li>
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2022. </li>
 <li> Improving the Faithfulness of Abstractive Summarization via Entity Coverage Control
-</a><br><b>Haopeng Zhang</b>, Semih Yavuz, Wojciech Maciej Kryscinski, Kazuma Hashimoto, Yingbo Zhou.  Findings of NAACL 2022. </li>
+<br><b>Haopeng Zhang</b>, Semih Yavuz, Wojciech Maciej Kryscinski, Kazuma Hashimoto, Yingbo Zhou.  Findings of NAACL 2022. </li>
 <li> Text Graph Transformer for Document Classification
-</a><br><b>Haopeng Zhang</b>, Jiawei Zhang. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2020.
+<br><b>Haopeng Zhang</b>, Jiawei Zhang. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2020.
   </li>
-</ul>
+</ol>
 
-<!-- ### Preprints 
-<p>[3] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/hrtf_field">code</a>&gt; </p>
-
-<p>[2] Siwen Ding, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2211.02718">arXiv</a>&gt; &lt;<a href="https://github.com/sivannavis/samo">code</a>&gt; </p>
-
-<p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
-
-
-
-
-### Conferences
-
-
-
-<p>[4] <strong>You Zhang</strong>, Ge Zhu, and Zhiyao Duan, <strong>A Probabilistic Fusion Framework for Spoofing Aware Speaker Verification</strong>, in <em>Proc. The Speaker and Language Recognition Workshop (Odyssey)</em>, 2022, pp. 77-84. &lt;<a href="https://www.isca-speech.org/archive/odyssey_2022/zhang22b_odyssey.html">link</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/pdfs/odyssey_2022/zhang22b_odyssey.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/SASV_PR">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=98p-KLH3cKc">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang22Odyssey.pdf">slides</a>&gt;</p>
-
-<p>[3] Xinhui Chen*, <strong>You Zhang*</strong>, Ge Zhu*, and Zhiyao Duan, <strong>UR Channel-Robust Synthetic Speech Detection System for ASVspoof 2021</strong>, in <em>Proc. 2021 Edition of the Automatic Speaker Verification and Spoofing Countermeasures Challenge Workshop (ASVspoof)</em>, 2021, pp. 75-82. (* equal contribution) &lt;<a href="https://www.isca-speech.org/archive/asvspoof_2021/chen21_asvspoof.html">link</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/pdfs/asvspoof_2021/chen21_asvspoof.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/ASVspoof2021_AIR">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=-wKMOTp8Tt0">video</a>&gt; </p>
-
-<p>[2] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko, <strong>Global HRTF Personalization Using Anthropometric Measures</strong>, in <em>Audio Engineering Society 150th Convention</em>, 2021. 
-            &lt;<a href="https://www.aes.org/e-lib/browse.cfm?elib=21095">link</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Wang21HRTF.pdf">pdf</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_sht_personalization">code</a>&gt;</p>
-
-<p>[1] <strong>You Zhang</strong>, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech</em>, 2021, pp. 4309-4313. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
- -->
-
-
-
-<!-- # COMMENT EXPLAINING THIS PAGE -- 
-https://labsites.rochester.edu/air/
-We're currently using this section of the site to host these tutorials,
-  but you might want to use it to showcase and describe your `Research`,
-  to chronicle various `Talks` you've given over your history, or to
-  write about various news or updates that have happened to you.
-
-You can update the `title` of file (line 3) to change the heading of 
-  the page and its title in the browser. To change how it's referred to
-  in the navigation and/or adjust its url, see `data/navigation.yml` file.
--->
 
 
 
