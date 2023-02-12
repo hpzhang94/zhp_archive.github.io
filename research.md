@@ -3,8 +3,10 @@ layout: page
 title: Publications
 ---
 
+## Teaching
 
-### Preprints 
+
+<!-- ### Preprints 
 <p>[3] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/hrtf_field">code</a>&gt; </p>
 
 <p>[2] Siwen Ding, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2211.02718">arXiv</a>&gt; &lt;<a href="https://github.com/sivannavis/samo">code</a>&gt; </p>
@@ -26,7 +28,7 @@ title: Publications
             &lt;<a href="https://www.aes.org/e-lib/browse.cfm?elib=21095">link</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Wang21HRTF.pdf">pdf</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_sht_personalization">code</a>&gt;</p>
 
 <p>[1] <strong>You Zhang</strong>, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech</em>, 2021, pp. 4309-4313. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
-
+ -->
 
 
 
