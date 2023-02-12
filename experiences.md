@@ -52,7 +52,7 @@ layout: page
         Research Intern (June 2022 - Sep. 2022)
     </li>
     <li>
-        Multi-document Summarization
+        Unsupervised multi-document summarization
     </li>
     <li>
         Mentored by <a href="https://sangwoo3.github.io/">Dr. Sangwoo Cho</a>, <a href="https://scholar.google.com/citations?user=PHoJwakAAAAJ&hl=en">Dr. Kaiqiang Song</a>

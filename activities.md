@@ -8,14 +8,11 @@ layout: page
 
 ### Teaching Assistant
 
-`Fall 2020` Theory and Structure of Databases
+`Fall 2019, Fall 2020` Theory and Structure of Databases
  
 `Spring 2020` Complexity and Analysis of Data Structures and Algorithms
 
-`Fall 2019` Theory and Structure of Databases
-
-
-
+`Spring 2017, Fall 2017` Semiconductor Devices
 
 
 ## Services
@@ -29,11 +26,10 @@ layout: page
 
 ## Awards
 
-
-* FSU Travel Award 2020
-* Adelaide D. Wilson Graduate Fellowship Endowment Fund 2019
-* Russell E. Berthold Scholarship 
-* Dean's List 
+* FSU Travel Award (2020)
+* Adelaide D. Wilson Graduate Fellowship Endowment Fund (2019)
+* Russell E. Berthold Scholarship (2016)
+* Dean's List (2015,2016)
 
 
 
