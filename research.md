@@ -13,15 +13,14 @@ hierarchical graph neural network
 <li> Unsupervised multi-document
 summarization with holistic inference
 <br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Jiawei Zhang, Yu Dong. 2022. </li>
-
 </ol>
 
 ## Preprints
 <ol>
 <li> <a href = "https://arxiv.org/abs/2001.05140" target="_blank">Graph-Bert: Only Attention is Needed for Learning Graph Representations
-</a><br>Jiawei Zhang, <b>Haopeng Zhang</b>, Sun, Li and Xia, Congying. arXiv preprint arXiv:2001.05140.
-
+</a><br>Jiawei Zhang, <b>Haopeng Zhang</b>, Sun, Li and Xia, Congying. arXiv preprint arXiv:2001.05140.</li>
 </ol>
+
 
 ## Conferences
 <ol>
