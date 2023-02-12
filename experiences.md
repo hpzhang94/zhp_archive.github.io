@@ -5,36 +5,36 @@ layout: page
 
 ## Educational Background
 
-<b>  University of California, Davis </b> - (Davis, CA, USA)
+<b>  University of California, Davis </b> - Davis, CA
 <ul>
 <li>
-    Ph.D. Candidate in Computer Science
+    Ph.D. candidate in computer science
     </li>
 
     <li>
-        Mentored by <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>
+        Advisor: <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>
     </li>
 </ul>
 
-<b> Georgia Institute of Technology</b> - (Atlanta, GA, USA)
+<b> Georgia Institute of Technology</b> - Atlanta, GA
 <ul>
    <li>
-        M.S. in Computational Science and Engineeering
+        M.S. in computational science and engineeering
     </li>
        <li>
-        M.S. in Electrical engineerin
+        M.S. in electrical engineering
     </li>
 </ul>
-<b> University of Illinois, Urbana and Champaign</b> - (Urbana, IL, USA)
+<b> University of Illinois, Urbana and Champaign</b> - Urbana, IL
 <ul>
     <li>
         B.E. in Electrical engineering
     </li>
 </ul>
 
-## Industrial
+## Professional Experiences
 
-<b> Megagon Lab </b> -  (Mountain View, CA, USA)
+<b> Megagon Lab </b> - Mountain View, CA, US
 <ul>
     <li>
         Incoming research intern (June 2023 - Sep. 2023)
@@ -44,7 +44,7 @@ layout: page
     </li>
 </ul>
 
-<b> Tencent America </b> - Tencent AI Lab (Bellevue, WA, USA)
+<b> Tencent America AI Lab </b> - Bellevue, WA, US
 <ul>
     <li>
         Research Intern (June 2022 - Sep. 2022)
@@ -58,7 +58,7 @@ layout: page
 </ul>
 
 
-<b> Salesforce Research </b> - (Remote, USA)
+<b> Salesforce Research </b> - Remote, US
 <ul>
 <li>
     Research Intern (May 2021 - Aug. 2021)
@@ -71,16 +71,13 @@ Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl
 </li>
 </ul>
 
-<b> Kidswant Compnay</b> - (Nanjing, China)
+<b> Kidswant Compnay</b> - Nanjing, China
 <ul>
 <li>
     Data mining intern (May 2018 - Aug. 2018)
 </li>
 <li>
-    Abstractive summarization faithfulness
-</li>
-<li>
-Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl=en">Dr. Samih Yavuz</a>
+    Recommendation System
 </li>
 </ul>
 

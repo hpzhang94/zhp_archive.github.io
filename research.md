@@ -3,29 +3,22 @@ layout: post-index
 title: Publications
 ---
 
-### Preprints (In submission)
+### Manuscripts
+
+
+### Preprints 
 <p>[3] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/hrtf_field">code</a>&gt; </p>
 
 <p>[2] Siwen Ding, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2211.02718">arXiv</a>&gt; &lt;<a href="https://github.com/sivannavis/samo">code</a>&gt; </p>
 
 <p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
 
-### Book Chapters
-
-<p>[1] <strong>You Zhang</strong>, Fei Jiang, Ge Zhu, Xinhui Chen, and Zhiyao Duan, <strong>Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks and Channel Variation</strong>, <em>Handbook of Biometric Anti-spoofing (3rd edition)</em>, Springer, 2023. (to be published)  &lt;<a href="https://link.springer.com/book/9789811952876">link</a>&gt; &lt;<a href="https://github.com/yzyouzhang/HBAS_chapter_voice3">code</a>&gt; </p>
-
-### Journals
-
-<p>[2] Sefik Emre Eskimez, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Speech Driven Talking Face Generation From a Single Image and an Emotion Condition</strong>, <em>IEEE Transactions on Multimedia</em>, vol. 24, pp. 3480-3490, 2022. &lt;<a href="https://ieeexplore.ieee.org/document/9496264">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2008.03592">arXiv</a>&gt; &lt;<a href="https://github.com/eeskimez/emotalkingface">code</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/projects/tfaceemo.html">project</a>&gt; </p>
-
-<p>[1] <strong>You Zhang</strong>, Fei Jiang, and Zhiyao Duan, <strong>One-Class Learning Towards Synthetic Voice Spoofing Detection</strong>, <em>IEEE Signal Processing Letters</em>, vol. 28, pp. 937-941, 2021. &lt;<a href="https://ieeexplore.ieee.org/document/9417604">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2010.13995">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/AIR-ASVspoof">code</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf">poster</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf">slides</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=pX9aq8CaIvk">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/projects/asvspoof.html">project</a>&gt; </p>
 
 
-### Conferences and Workshops
 
-<p>[6] Abudukelimu Wuerkaixi, Kunda Yan, <strong>You Zhang</strong>, Zhiyao Duan, and Changshui Zhang, <strong>DyViSE: Dynamic Vision-Guided Speaker Embedding for Audio-Visual Speaker Diarization</strong>, in <em>Proc. IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)</em>, 2022, pp. 1-6. &lt;<a href="https://ieeexplore.ieee.org/document/9948860">link</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Wuerkaixi_DyViSE.pdf">pdf</a>&gt; &lt;<a href="https://github.com/zaocan666/DyViSE">code</a>&gt; </p>
+### Conferences
 
-<p>[5] Abudukelimu Wuerkaixi, <strong>You Zhang</strong>, Zhiyao Duan, and Changshui Zhang, <strong>Rethinking Audio-Visual Synchronization for Active Speaker Detection</strong>, in <em>Proc. IEEE 32nd International Workshop on Machine Learning for Signal Processing (MLSP)</em>, 2022, pp. 01-06. &lt;<a href="https://ieeexplore.ieee.org/document/9943352">link</a>&gt; &lt;<a href="https://arxiv.org/pdf/2206.10421.pdf">pdf</a>&gt; &lt;<a href="https://github.com/zaocan666/SyncTalkNet">code</a>&gt; </p>
+
 
 <p>[4] <strong>You Zhang</strong>, Ge Zhu, and Zhiyao Duan, <strong>A Probabilistic Fusion Framework for Spoofing Aware Speaker Verification</strong>, in <em>Proc. The Speaker and Language Recognition Workshop (Odyssey)</em>, 2022, pp. 77-84. &lt;<a href="https://www.isca-speech.org/archive/odyssey_2022/zhang22b_odyssey.html">link</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/pdfs/odyssey_2022/zhang22b_odyssey.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/SASV_PR">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=98p-KLH3cKc">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang22Odyssey.pdf">slides</a>&gt;</p>
 
