@@ -1,13 +1,14 @@
 # Site navigation links
 
-- title: Home
-  url: /
 
 - title: Experiences
   url: /experiences/
 
 - title: Publications
   url: /research/
+
+- title: Activities
+  url: /activities/
 
 - title: Resume
   url: /Haopeng_Resume.pdf
