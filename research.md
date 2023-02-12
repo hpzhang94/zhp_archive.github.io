@@ -3,8 +3,20 @@ layout: page
 title: Publications
 ---
 
-## Teaching
+## Manuscripts (In submission)
 
+## Preprints
+
+## Conferences
+<ul>
+<li> HEGEL: Hypergraph Transformer for Long Document Summarization
+</a><br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2022. </li>
+<li> Improving the Faithfulness of Abstractive Summarization via Entity Coverage Control
+</a><br><b>Haopeng Zhang</b>, Semih Yavuz, Wojciech Maciej Kryscinski, Kazuma Hashimoto, Yingbo Zhou.  Findings of NAACL 2022. </li>
+<li> Text Graph Transformer for Document Classification
+</a><br><b>Haopeng Zhang</b>, Jiawei Zhang. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2020.
+  </li>
+</ul>
 
 <!-- ### Preprints 
 <p>[3] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/hrtf_field">code</a>&gt; </p>

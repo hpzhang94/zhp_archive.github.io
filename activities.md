@@ -21,10 +21,10 @@ layout: page
 ## Services
 
 ### Reviewers
-* AAAI 19/20, KDD 23, EACL 23, ACL 23, IJCNN 23
+* AAAI 21/22, KDD 23, EACL 23, ACL 23, IJCNN 23
 
 
-* IEEE transactions on big data
+* IEEE Transactions on Big Data, Artificial Intelligence Review, Computer Speech & Language
 
 
 

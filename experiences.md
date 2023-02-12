@@ -1,5 +1,5 @@
 ---
-title: Experiences
+# title: Experiences
 layout: page
 ---
 
@@ -7,12 +7,14 @@ layout: page
 
 <b>  University of California, Davis </b> - Davis, CA
 <ul>
-<li>
+    <li>
     Ph.D. candidate in computer science
     </li>
-
     <li>
         Advisor: <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>
+    </li>
+    <li>
+        Thesis: Leveraging structures in natural language processing
     </li>
 </ul>
 
