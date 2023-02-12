@@ -1,7 +1,7 @@
 ---
 layout: home
 # excerpt: "Haopeng Zhang's Homepage"
-menutitle: Home
+# menutitle: Home
 menuorder: 1
 ---
 

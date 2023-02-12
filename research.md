@@ -1,9 +1,7 @@
 ---
-layout: post-index
+layout: page
 title: Publications
 ---
-
-### Manuscripts
 
 
 ### Preprints 
