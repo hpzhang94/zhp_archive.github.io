@@ -12,7 +12,7 @@ If you are interested in my research, or would like collaborate with me, you are
 
 ## I am actively looking for NLP postdoc and research scientist positions.
 
-## Current Interests and Projects:
+## Research Interests:
 
 - Graph4NLP
 - Summarization
