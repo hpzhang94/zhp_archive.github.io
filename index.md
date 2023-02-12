@@ -1,13 +1,11 @@
 ---
-layout: home
+layout: page
 # excerpt: "Haopeng Zhang's Homepage"
 # menutitle: Home
 menuorder: 1
 ---
 
-I am a computer science Ph.D candidate at UC Davis, working with <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>. Take a look at <a href="./Haopeng_Resume.pdf">my CV</a>.
-
-My research interests lie in building graph models for natural language processing tasks. My recent work has focused on both extractive and abstractive summarization. In my spare time, I am fond of movies, video games, and traveling.
+I am a computer science Ph.D candidate at UC Davis, working with <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>. My research interests lie in building graph models for natural language processing. My recent work has focused on extractive and abstractive summarization.
 
 If you are interested in my research, or would like collaborate with me, you are welcome to <a href="mailto:haopeng@ifmlab.org">email me</a>.
 
