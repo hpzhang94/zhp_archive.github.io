@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Haopeng Zhang
-  avatar: bio-photo.jpg
+  avatar: bio-photo.png
   bio: "CS Ph.D candidate at University of California, Davis."
   email: haopeng@ifmlab.org
   # Do not include the @ symbol in your Twitter username
