@@ -5,11 +5,13 @@ layout: page
 
 ## My cat
 I have a cute cat named July.
-![Cute CAT](./images/2231667367623_.pic_hd.jpg)
+![Cute CAT](./images/IMG_0736.jpg)
+![Cute CAT](./images/IMG_8109.JPG)
+
 
 
 ## Besides research
 
-I also love traveling all around the world, especially to places with friends living.
+I am a huge fan of Jay Chou and Lebron James. I also love traveling. 
 
 
