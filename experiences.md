@@ -36,7 +36,7 @@ layout: page
 
 ## Professional Experiences
 
-<b> Megagon Lab </b> - Mountain View, CA, US
+<!-- <b> Megagon Lab </b> - Mountain View, CA, US
 <ul>
     <li>
         Incoming research intern (June 2023 - Sep. 2023)
@@ -44,7 +44,7 @@ layout: page
     <li>
         TBD
     </li>
-</ul>
+</ul> -->
 
 <b> Tencent America AI Lab </b> - Bellevue, WA, US
 <ul>
