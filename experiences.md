@@ -36,15 +36,20 @@ layout: page
 
 ## Professional Experiences
 
-<!-- <b> Megagon Lab </b> - Mountain View, CA, US
+<b> Megagon Lab </b> - Mountain View, CA, US
 <ul>
     <li>
-        Incoming research intern (June 2023 - Sep. 2023)
+        Research Scientist intern (April 2023 - June. 2023)
     </li>
     <li>
-        TBD
+        Controllable text editting system
     </li>
-</ul> -->
+    <li>
+        Mentored by <a href="https://isomap.github.io/">Dr. Hayate Iso</a>
+    </li>
+</ul>
+
+
 
 <b> Tencent America AI Lab </b> - Bellevue, WA, US
 <ul>
