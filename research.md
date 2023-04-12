@@ -22,6 +22,11 @@ summarization with holistic inference (2022)
 <br>arXiv preprint arXiv:2001.05140.
 <a href = "https://arxiv.org/abs/2001.05140" target="_blank"> [pdf] </a><a href = "https://github.com/jwzhanggy/Graph-Bert"> [code] </a>
 </li>
+<li> Extractive Summarization via ChatGPT for Faithful Summary Generation
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
+<br>arXiv preprint arXiv:2304.04193
+<a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
+</li>
 </ol>
 
 

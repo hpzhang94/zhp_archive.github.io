@@ -34,5 +34,10 @@ layout: page
 * AAAI 21/22, KDD 23, EACL 23, ACL 23, IJCNN 23
 
 
-* IEEE Transactions on Big Data, Artificial Intelligence Review, Computer Speech & Language
+* IEEE Transactions on Big Data
+* IEEE/ACM Transactions on Audio, Speech, and Language Processing
+* Artificial Intelligence Review
+* Computer Speech & Language
 
+### Program Committee
+The 4th New Frontiers in Summarization Workshop (EMNLP 2023)
