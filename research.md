@@ -31,11 +31,11 @@ summarization with holistic inference (2022)
 ## Conferences
 <ol>
 
-<li> Diffusum: Generation enhanced extractive summarization with diffusion (2023)
-<br><b>Haopeng Zhang*</b>, Xiao Liu*, Jiawei Zhang </li>
+<li> Diffusum: Generation enhanced extractive summarization with diffusion
+<br><b>Haopeng Zhang*</b>, Xiao Liu*, Jiawei Zhang
 <br>Findings of the Association for Computational Linguistics:ACL 2023 (ACL 2023)
 <a href = "https://github.com/hpzhang94/DiffuSum"> [code] </a>
-
+</li>
 <li> HEGEL: Hypergraph Transformer for Long Document Summarization
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. 
 <br>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP2022)
