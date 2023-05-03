@@ -5,8 +5,6 @@ title: Publications
 
 ## Manuscripts (In submission)
 <ol>
-<li> Diffusum: Generation enhanced extractive summarization with diffusion (2023)
-<br><b>Haopeng Zhang*</b>, Xiao Liu*, Jiawei Zhang </li>
 <li> Scientific document summarization via contrastive
 hierarchical graph neural network (2022)
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang </li>
@@ -32,19 +30,25 @@ summarization with holistic inference (2022)
 
 ## Conferences
 <ol>
+
+<li> Diffusum: Generation enhanced extractive summarization with diffusion (2023)
+<br><b>Haopeng Zhang*</b>, Xiao Liu*, Jiawei Zhang </li>
+<br>Findings of the Association for Computational Linguistics:ACL 2023 (ACL 2023)
+<a href = "https://github.com/hpzhang94/DiffuSum"> [code] </a>
+
 <li> HEGEL: Hypergraph Transformer for Long Document Summarization
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. 
-<br>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+<br>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP2022)
 <a href = "https://arxiv.org/abs/2210.04126"> [pdf] </a><a href = "https://github.com/hpzhang94/hegel_sum"> [code] </a>
 </li>
 <li> Improving the Faithfulness of Abstractive Summarization via Entity Coverage Control
 <br><b>Haopeng Zhang</b>, Semih Yavuz, Wojciech Maciej Kryscinski, Kazuma Hashimoto, Yingbo Zhou. 
-<br>Findings of the Association for Computational Linguistics: NAACL 2022 <a href = "https://aclanthology.org/2022.findings-naacl.40/"> [pdf] </a>
+<br>Findings of the Association for Computational Linguistics: NAACL 2022 (NAACL2022) <a href = "https://aclanthology.org/2022.findings-naacl.40/"> [pdf] </a>
 
 </li>
 <li> Text Graph Transformer for Document Classification
 <br><b>Haopeng Zhang</b>, Jiawei Zhang. 
-<br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) <a href = "https://aclanthology.org/2020.emnlp-main.668/"> [pdf] </a>
+<br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP2020) <a href = "https://aclanthology.org/2020.emnlp-main.668/"> [pdf] </a>
   </li>
 </ol>
 

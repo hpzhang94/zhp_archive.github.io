@@ -36,16 +36,29 @@ layout: page
 
 ## Professional Experiences
 
-<b> Megagon Lab </b> - Mountain View, CA, US
+<b> AWS AI Lab </b> - Stanta Clara, CA, US
 <ul>
     <li>
-        Research Scientist intern (April 2023 - June. 2023)
+        Incoming Applied Scientist Intern (June 2023 - Sep. 2023)
     </li>
     <li>
         Controllable text editting system
     </li>
     <li>
         Mentored by <a href="https://isomap.github.io/">Dr. Hayate Iso</a>
+    </li>
+</ul>
+
+<b> Megagon Lab </b> - Mountain View, CA, US
+<ul>
+    <li>
+        Research Scientist Intern (April 2023 - June 2023)
+    </li>
+    <li>
+        document ranking and question answering. 
+    </li>
+    <li>
+        Mentored by <a href="https://scholar.google.com/citations?user=uW8JaBsAAAAJ&hl=en">Dr. Zhiheng Huang</a>
     </li>
 </ul>
 
