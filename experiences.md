@@ -42,7 +42,7 @@ layout: page
         Incoming Applied Scientist Intern (June 2023 - Sep. 2023)
     </li>
     <li>
-        Document ranking and question answering. 
+        Document ranking and question answering
     </li>
     <li>
         Mentored by <a href="https://scholar.google.com/citations?user=uW8JaBsAAAAJ&hl=en">Dr. Zhiheng Huang</a>
@@ -55,7 +55,7 @@ layout: page
         Research Scientist Intern (April 2023 - June 2023)
     </li>
     <li>
-        Fine-grained text editting.
+        Fine-grained text editting
     </li>
     <li>
         Mentored by <a href="https://isomap.github.io/">Dr. Hayate Iso</a>, <a href="https://sairamgv.github.io/">Dr. Sairam Gurajada</a> 
