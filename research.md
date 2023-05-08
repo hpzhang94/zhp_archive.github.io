@@ -18,12 +18,12 @@ summarization with holistic inference (2022)
 <li> Graph-Bert: Only Attention is Needed for Learning Graph Representations
 <br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun and Congying Xia. 
 <br>arXiv preprint arXiv:2001.05140.
-<a href = "https://arxiv.org/abs/2001.05140" target="_blank"> [pdf] </a><a href = "https://github.com/jwzhanggy/Graph-Bert"> [code] </a>
+<br><a href = "https://arxiv.org/abs/2001.05140" target="_blank"> [pdf] </a><a href = "https://github.com/jwzhanggy/Graph-Bert"> [code] </a>
 </li>
 <li> Extractive Summarization via ChatGPT for Faithful Summary Generation
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>arXiv preprint arXiv:2304.04193
-<a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
+<br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
 </li>
 </ol>
 
@@ -34,21 +34,23 @@ summarization with holistic inference (2022)
 <li> Diffusum: Generation enhanced extractive summarization with diffusion
 <br><b>Haopeng Zhang*</b>, Xiao Liu*, Jiawei Zhang
 <br>Findings of the Association for Computational Linguistics:ACL 2023 <b>(ACL 2023)</b>
-<a href = "https://arxiv.org/abs/2305.01735"> [pdf]</a> <a href = "https://github.com/hpzhang94/DiffuSum"> [code] </a>
+<br><a href = "https://arxiv.org/abs/2305.01735"> [pdf]</a> <a href = "https://github.com/hpzhang94/DiffuSum"> [code] </a>
 </li>
 <li> HEGEL: Hypergraph Transformer for Long Document Summarization
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. 
 <br>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP2022)</b>
-<a href = "https://arxiv.org/abs/2210.04126"> [pdf] </a> <a href = "https://github.com/hpzhang94/hegel_sum"> [code] </a>
+<br><a href = "https://arxiv.org/abs/2210.04126"> [pdf] </a> <a href = "https://github.com/hpzhang94/hegel_sum"> [code] </a>
 </li>
 <li> Improving the Faithfulness of Abstractive Summarization via Entity Coverage Control
 <br><b>Haopeng Zhang</b>, Semih Yavuz, Wojciech Maciej Kryscinski, Kazuma Hashimoto, Yingbo Zhou. 
-<br>Findings of the Association for Computational Linguistics: NAACL 2022 <b>(NAACL2022)</b> <a href = "https://aclanthology.org/2022.findings-naacl.40/"> [pdf] </a>
+<br>Findings of the Association for Computational Linguistics: NAACL 2022 <b>(NAACL2022)</b> 
+<br><a href = "https://aclanthology.org/2022.findings-naacl.40/"> [pdf] </a>
 
 </li>
 <li> Text Graph Transformer for Document Classification
 <br><b>Haopeng Zhang</b>, Jiawei Zhang. 
-<br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP2020)</b> <a href = "https://aclanthology.org/2020.emnlp-main.668/"> [pdf] </a>
+<br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP2020)</b> 
+<br><a href = "https://aclanthology.org/2020.emnlp-main.668/"> [pdf] </a>
   </li>
 </ol>
 
