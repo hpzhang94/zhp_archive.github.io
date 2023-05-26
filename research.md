@@ -25,7 +25,6 @@ summarization with holistic inference (2022)
 <br>arXiv preprint arXiv:2304.04193
 <br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
 </li>
-</li>
 <li> SummIt: Iterative Text Summarization via ChatGPT
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>arXiv preprint arXiv:2305.14835
@@ -44,18 +43,18 @@ summarization with holistic inference (2022)
 </li>
 <li> HEGEL: Hypergraph Transformer for Long Document Summarization
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang. 
-<br>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP2022)</b>
+<br>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2022)</b>
 <br><a href = "https://arxiv.org/abs/2210.04126"> [pdf] </a> <a href = "https://github.com/hpzhang94/hegel_sum"> [code] </a>
 </li>
 <li> Improving the Faithfulness of Abstractive Summarization via Entity Coverage Control
 <br><b>Haopeng Zhang</b>, Semih Yavuz, Wojciech Maciej Kryscinski, Kazuma Hashimoto, Yingbo Zhou. 
-<br>Findings of the Association for Computational Linguistics: NAACL 2022 <b>(NAACL2022)</b> 
+<br>Findings of the Association for Computational Linguistics: NAACL 2022 <b>(NAACL 2022)</b> 
 <br><a href = "https://aclanthology.org/2022.findings-naacl.40/"> [pdf] </a>
 
 </li>
 <li> Text Graph Transformer for Document Classification
 <br><b>Haopeng Zhang</b>, Jiawei Zhang. 
-<br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP2020)</b> 
+<br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2020)</b> 
 <br><a href = "https://aclanthology.org/2020.emnlp-main.668/"> [pdf] </a>
   </li>
 </ol>
