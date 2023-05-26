@@ -5,7 +5,7 @@ layout: home
 # menuorder: 1
 ---
 
-I am a computer science Ph.D. candidate at UC Davis, working with <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>. My research interests lie in building graph models for natural language processing. My recent work has focused on text summarization, and LLM application.
+I am a computer science Ph.D. candidate at UC Davis, working with <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>. My research focuses on developing graph models for natural language processing. My recent work has focused on text summarization and LLM application.
 
 If you are interested in my research, or would like collaborate with me, you are welcome to <a href="mailto:haopeng@ifmlab.org">[email me]</a>.
 

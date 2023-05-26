@@ -25,6 +25,12 @@ summarization with holistic inference (2022)
 <br>arXiv preprint arXiv:2304.04193
 <br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
 </li>
+</li>
+<li> SummIt: Iterative Text Summarization via ChatGPT
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
+<br>arXiv preprint arXiv:2305.14835
+<br><a href = "http://arxiv.org/abs/2305.14835" target="_blank"> [pdf] </a>
+</li>
 </ol>
 
 

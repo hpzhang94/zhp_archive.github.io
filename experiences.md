@@ -8,7 +8,7 @@ layout: page
 <b>  University of California, Davis </b> - Davis, CA
 <ul>
     <li>
-    Ph.D. candidate in computer science
+    Ph.D. candidate in Computer Science
     </li>
     <li>
         Advisor: <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>
@@ -21,16 +21,16 @@ layout: page
 <b> Georgia Institute of Technology</b> - Atlanta, GA
 <ul>
    <li>
-        M.S. in computational science and engineeering
+        M.S. in Computational Science and Engineeering
     </li>
        <li>
-        M.S. in electrical engineering
+        M.S. in Electrical Engineering
     </li>
 </ul>
 <b> University of Illinois, Urbana and Champaign</b> - Urbana, IL
 <ul>
     <li>
-        B.E. in Electrical engineering
+        B.E. in Electrical Engineering
     </li>
 </ul>
 
@@ -55,7 +55,7 @@ layout: page
         Research Scientist Intern (April 2023 - June 2023)
     </li>
     <li>
-        Fine-grained text editting
+        Benchmark for explainable fine-grained text editing
     </li>
     <li>
         Mentored by <a href="https://isomap.github.io/">Dr. Hayate Iso</a>, <a href="https://sairamgv.github.io/">Dr. Sairam Gurajada</a> 
@@ -63,11 +63,10 @@ layout: page
 </ul>
 
 
-
 <b> Tencent America AI Lab </b> - Bellevue, WA, US
 <ul>
     <li>
-        Research Intern (June 2022 - Sep. 2022)
+        Research Scientist Intern (June 2022 - Sep. 2022)
     </li>
     <li>
         Unsupervised multi-document summarization
@@ -91,7 +90,7 @@ Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl
 </li>
 </ul>
 
-<b> Kidswant CompaNy</b> - Nanjing, China
+<b> Kidswant Company</b> - Nanjing, China
 <ul>
 <li>
     Data mining intern (May 2018 - Aug. 2018)
