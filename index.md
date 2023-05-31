@@ -13,7 +13,7 @@ If you are interested in my research, or would like collaborate with me, you are
 
 ## News
 - 05.2023: one research paper is accepted to CODI at ACL 2023.
-- 05.2023: one research paper <a href = "https://arxiv.org/abs/2305.14835"> [SummIt: Iterative Text Summarization via ChatGPT] </a> is available on arXiv.
+- 05.2023: one research paper <a href = "https://arxiv.org/abs/2305.14835" target="_blank"> [SummIt: Iterative Text Summarization via ChatGPT] </a> is available on arXiv.
 - 05.2023: one research paper is accepted to Findings of ACL 2023.
 - 04.2023: start my research internship at Megagon Lab.
 - 04.2023: one research paper <a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [Extractive Summarization via ChatGPT for Faithful Summary Generation] </a> is available on arXiv.

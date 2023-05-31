@@ -33,8 +33,9 @@ summarization with holistic inference (2022)
 ## Conferences
 <ol>
 <li> Contrastive Hierarchical Discourse Graph for Scientific Document Summarization
-<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang </li>
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>CODI at ACL 2023
+</li>
 <li> Diffusum: Generation enhanced extractive summarization with diffusion
 <br><b>Haopeng Zhang*</b>, Xiao Liu*, Jiawei Zhang
 <br>Findings of the Association for Computational Linguistics:ACL 2023 <b>(ACL 2023)</b>
