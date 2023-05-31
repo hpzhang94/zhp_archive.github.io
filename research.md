@@ -5,9 +5,6 @@ title: Publications
 
 ## Manuscripts (In submission)
 <ol>
-<li> Scientific document summarization via contrastive
-hierarchical graph neural network (2022)
-<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang </li>
 <li> Unsupervised multi-document
 summarization with holistic inference (2022)
 <br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Xiaoyang Wang, Hongwei Wang, Jiawei Zhang, Dong Yu </li>
@@ -35,7 +32,9 @@ summarization with holistic inference (2022)
 
 ## Conferences
 <ol>
-
+<li> Contrastive Hierarchical Discourse Graph for Scientific Document Summarization
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang </li>
+<br>CODI at ACL 2023
 <li> Diffusum: Generation enhanced extractive summarization with diffusion
 <br><b>Haopeng Zhang*</b>, Xiao Liu*, Jiawei Zhang
 <br>Findings of the Association for Computational Linguistics:ACL 2023 <b>(ACL 2023)</b>
