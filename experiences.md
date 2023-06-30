@@ -39,13 +39,13 @@ layout: page
 <b> AWS AI Lab </b> - Stanta Clara, CA, US
 <ul>
     <li>
-        Incoming Applied Scientist Intern (June 2023 - Sep. 2023)
+        Applied Scientist Intern (June 2023 - Sep. 2023)
     </li>
     <li>
-        Document ranking and question answering
+        Retrieval-augmented generation 
     </li>
     <li>
-        Mentored by <a href="https://scholar.google.com/citations?user=uW8JaBsAAAAJ&hl=en">Dr. Zhiheng Huang</a>
+        Mentored by Dr.Lan Liu, <a href="https://qipeng.me/">Dr. Peng Qi</a>, <a href="https://scholar.google.com/citations?user=uW8JaBsAAAAJ&hl=en">Dr. Zhiheng Huang</a>
     </li>
 </ul>
 

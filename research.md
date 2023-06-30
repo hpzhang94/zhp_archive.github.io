@@ -8,6 +8,8 @@ title: Publications
 <li> Unsupervised multi-document
 summarization with holistic inference (2022)
 <br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Xiaoyang Wang, Hongwei Wang, Jiawei Zhang, Dong Yu </li>
+<li> A Fine-grained Instruction-based Benchmark for Explainable Text Updates (2023)
+<br><b>Haopeng Zhang</b>, Hayate Iso, Sairam Gurajada, Nikita Bhutani </li>
 </ol>
 
 ## Preprints
@@ -17,11 +19,11 @@ summarization with holistic inference (2022)
 <br>arXiv preprint arXiv:2001.05140.
 <br><a href = "https://arxiv.org/abs/2001.05140" target="_blank"> [pdf] </a><a href = "https://github.com/jwzhanggy/Graph-Bert"> [code] </a>
 </li>
-<li> Extractive Summarization via ChatGPT for Faithful Summary Generation
+<!-- <li> Extractive Summarization via ChatGPT for Faithful Summary Generation
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>arXiv preprint arXiv:2304.04193
 <br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
-</li>
+</li> -->
 <li> SummIt: Iterative Text Summarization via ChatGPT
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>arXiv preprint arXiv:2305.14835
@@ -32,6 +34,10 @@ summarization with holistic inference (2022)
 
 ## Conferences
 <ol>
+<li> Extractive Summarization via ChatGPT for Faithful Summary Generation
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
+<br>Foundations and Applications in Large-scale AI Models Workshop at KDD 2023 conference <b>(LLM4AI)</b>
+</li>
 <li> Contrastive Hierarchical Discourse Graph for Scientific Document Summarization
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>4th Workshop on Computational Approaches to Discourse at ACL 2023 conference <b>(ACL 2023 CODI)</b>
