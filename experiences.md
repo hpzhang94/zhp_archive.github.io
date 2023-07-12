@@ -42,10 +42,10 @@ layout: page
         Applied Scientist Intern (June 2023 - Sep. 2023)
     </li>
     <li>
-        Retrieval-augmented generation 
+        Joint optimization of retrieval-augmented generation 
     </li>
     <li>
-        Mentored by Dr.Lan Liu, <a href="https://qipeng.me/">Dr. Peng Qi</a>, <a href="https://scholar.google.com/citations?user=uW8JaBsAAAAJ&hl=en">Dr. Zhiheng Huang</a>
+        Mentored by <a href="https://www.amazon.science/author/lan-liu">Dr. Lan Liu</a>, <a href="https://qipeng.me/">Dr. Peng Qi</a>, <a href="https://scholar.google.com/citations?user=uW8JaBsAAAAJ&hl=en">Dr. Zhiheng Huang</a>
     </li>
 </ul>
 
@@ -83,10 +83,10 @@ layout: page
     Research Intern (May 2021 - Aug. 2021)
 </li>
 <li>
-    Abstractive summarization faithfulness
+    Abstractive summarization faithfulness and domain adaptation
 </li>
 <li>
-Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl=en">Dr. Samih Yavuz</a>
+Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl=en">Dr. Samih Yavuz</a>, <a href="https://scholar.google.com/citations?user=H_6RQ7oAAAAJ&hl=en">Dr. Yingbo Zhou</a>
 </li>
 </ul>
 

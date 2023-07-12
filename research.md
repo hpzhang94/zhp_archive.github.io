@@ -5,11 +5,11 @@ title: Publications
 
 ## Manuscripts (In submission)
 <ol>
+<li> A Fine-grained Instruction-based Benchmark for Explainable Text Updates (2023)
+<br><b>Haopeng Zhang</b>, Hayate Iso, Sairam Gurajada, Nikita Bhutani </li>
 <li> Unsupervised multi-document
 summarization with holistic inference (2022)
 <br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Xiaoyang Wang, Hongwei Wang, Jiawei Zhang, Dong Yu </li>
-<li> A Fine-grained Instruction-based Benchmark for Explainable Text Updates (2023)
-<br><b>Haopeng Zhang</b>, Hayate Iso, Sairam Gurajada, Nikita Bhutani </li>
 </ol>
 
 ## Preprints
@@ -36,7 +36,7 @@ summarization with holistic inference (2022)
 <ol>
 <li> Extractive Summarization via ChatGPT for Faithful Summary Generation
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
-<br>Foundations and Applications in Large-scale AI Models Workshop at KDD 2023 conference <b>(LLM4AI)</b>
+<br>Foundations and Applications in Large-scale AI Models Workshop at KDD 2023 conference <b>(KDD 2023 LLM4AI)</b>
 </li>
 <li> Contrastive Hierarchical Discourse Graph for Scientific Document Summarization
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang

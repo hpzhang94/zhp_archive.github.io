@@ -5,15 +5,16 @@ layout: home
 # menuorder: 1
 ---
 
-I am a computer science Ph.D. candidate at UC Davis, advised by <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. My research focuses on developing graph models for natural language processing tasks, specifically on text summarization, generation and LLM applications.
+I am a final-year computer science Ph.D. at UC Davis, advised by <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. My research focuses on developing graph models for natural language processing tasks, specifically on text summarization, generation and LLM applications.
 
 If you are interested in my research, or would like collaborate with me, you are welcome to <a href="mailto:haopeng@ifmlab.org"><u>email me</u></a>.
 
-### I am actively looking for NLP postdoc and research scientist positions starting Dec. 2023.
+### I am actively looking for both academic and industry positions starting Dec. 2023.
 
 ## News
+- 06.2023: start my research internship at AWS AI lab.
 - 06.2023: one research paper is accepted to LLM4AI workshop at KDD 23.
-- 06.2023: I will serve as reviewer for EMNLP 2023 and PC for NewSumm workshop 2023.
+- 06.2023: serve as reviewer for EMNLP 2023 and PC for NewSumm workshop 2023.
 - 05.2023: one research paper is accepted to ACL 2023 CODI. 
 - 05.2023: one research paper <a href = "https://arxiv.org/abs/2305.14835" target="_blank">[SummIt: Iterative Text Summarization via ChatGPT]</a> is available on arXiv.
 - 05.2023: one research paper is accepted to Findings of ACL 2023.
