@@ -9,7 +9,7 @@ I am a final-year computer science Ph.D. at UC Davis, advised by <a href="http:/
 
 If you are interested in my research, or would like collaborate with me, you are welcome to <a href="mailto:haopeng@ifmlab.org"><u>email me</u></a>.
 
-### I am actively looking for both academic and industry positions starting Dec. 2023.
+<!-- ### I am actively looking for both academic and industry positions starting Dec. 2023. -->
 
 ## News
 - 06.2023: start my research internship at AWS AI lab.
