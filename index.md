@@ -12,6 +12,7 @@ If you are interested in my research, or would like collaborate with me, you are
 <!-- ### I am actively looking for both academic and industry positions starting Dec. 2023. -->
 
 ## News
+- 09.2023: one research paper is accepted to IJCNLP-AACL 2023.
 - 06.2023: start my research internship at AWS AI lab.
 - 06.2023: one research paper is accepted to LLM4AI workshop at KDD 23.
 - 06.2023: serve as reviewer for EMNLP 2023 and PC for NewSumm workshop 2023.
@@ -29,7 +30,7 @@ If you are interested in my research, or would like collaborate with me, you are
 
 - Graph4NLP
 - Summarization & Generation
-- Graph mining
+- Large Language Model
 
 <a href="https://info.flagcounter.com/pYGa"><img src="https://s11.flagcounter.com/count2/pYGa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_30/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
