@@ -14,7 +14,7 @@ layout: page
         Advisor: <a href="http://jiaweizhang.net/">Dr. Jiawei Zhang</a>
     </li>
     <li>
-        Thesis: Leveraging structures in natural language processing
+        Thesis: Intelligent and reliable text summarization systems.
     </li>
 </ul>
 

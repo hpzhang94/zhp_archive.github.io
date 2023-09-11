@@ -12,6 +12,7 @@ If you are interested in my research, or would like collaborate with me, you are
 <!-- ### I am actively looking for both academic and industry positions starting Dec. 2023. -->
 
 ## News
+- 09.2023: serve as PC member for SDM 24.
 - 09.2023: one research paper is accepted to IJCNLP-AACL 2023.
 - 06.2023: start my research internship at AWS AI lab.
 - 06.2023: one research paper is accepted to LLM4AI workshop at KDD 23.

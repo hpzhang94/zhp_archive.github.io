@@ -31,9 +31,10 @@ title: Publications
 
 ## Conferences
 <ol>
-<li> Unsupervised multi-document summarization with holistic inference (2022)
+<li> Unsupervised multi-document summarization with holistic inference
 <br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Xiaoyang Wang, Hongwei Wang, Jiawei Zhang, Dong Yu
 <br>Findingss of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing <b>(IJCNLP-AACL 2023)</b>
+<br><a href = "https://arxiv.org/abs/2309.04087" target="_blank"> [pdf] </a>
 </li>
 <li> Extractive Summarization via ChatGPT for Faithful Summary Generation
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
