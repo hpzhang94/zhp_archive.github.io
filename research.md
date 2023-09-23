@@ -3,12 +3,6 @@ layout: page
 title: Publications
 ---
 
-## Manuscripts (In submission)
-<ol>
-<li> A Fine-grained Instruction-based Benchmark for Explainable Text Updates (2023)
-<br><b>Haopeng Zhang</b>, Hayate Iso, Sairam Gurajada, Nikita Bhutani </li>
-</ol>
-
 ## Preprints
 <ol>
 <li> Graph-Bert: Only Attention is Needed for Learning Graph Representations
@@ -25,6 +19,11 @@ title: Publications
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>arXiv preprint arXiv:2305.14835
 <br><a href = "http://arxiv.org/abs/2305.14835" target="_blank"> [pdf] </a>
+</li>
+<li> A Fine-grained Instruction-based Benchmark for Explainable Text Updates (2023)
+<br><b>Haopeng Zhang</b>, Hayate Iso, Sairam Gurajada, Nikita Bhutani
+<br>arXiv preprint arXiv:2309.11063
+<br><a href = "https://arxiv.org/abs/2309.11063" target="_blank"> [pdf] </a>
 </li>
 </ol>
 
