@@ -15,11 +15,7 @@ title: Publications
 <br>arXiv preprint arXiv:2304.04193
 <br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
 </li> -->
-<li> SummIt: Iterative Text Summarization via ChatGPT
-<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
-<br>arXiv preprint arXiv:2305.14835
-<br><a href = "http://arxiv.org/abs/2305.14835" target="_blank"> [pdf] </a>
-</li>
+
 <li> A Fine-grained Instruction-based Benchmark for Explainable Text Updates (2023)
 <br><b>Haopeng Zhang</b>, Hayate Iso, Sairam Gurajada, Nikita Bhutani
 <br>arXiv preprint arXiv:2309.11063
@@ -30,15 +26,22 @@ title: Publications
 
 ## Conferences
 <ol>
-<li> Unsupervised multi-document summarization with holistic inference
-<br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Xiaoyang Wang, Hongwei Wang, Jiawei Zhang, Dong Yu
-<br>Findingss of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing <b>(IJCNLP-AACL 2023)</b>
-<br><a href = "https://arxiv.org/abs/2309.04087" target="_blank"> [pdf] </a>
+<li> SummIt: Iterative Text Summarization via ChatGPT
+<br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
+<br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023) (to appear)</b>
+<br><a href = "http://arxiv.org/abs/2305.14835" target="_blank"> [pdf] </a>
 </li>
 <li> Extractive Summarization via ChatGPT for Faithful Summary Generation
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
-<br>Foundations and Applications in Large-scale AI Models Workshop at KDD 2023 conference <b>(KDD 2023 LLM4AI)</b>
+<br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023) (to appear)</b>
 <br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
+</li>
+
+
+<li> Unsupervised multi-document summarization with holistic inference
+<br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Xiaoyang Wang, Hongwei Wang, Jiawei Zhang, Dong Yu
+<br>Findings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing <b>(IJCNLP-AACL 2023)</b>
+<br><a href = "https://arxiv.org/abs/2309.04087" target="_blank"> [pdf] </a>
 </li>
 <li> Contrastive Hierarchical Discourse Graph for Scientific Document Summarization
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
