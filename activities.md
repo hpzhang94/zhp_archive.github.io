@@ -37,6 +37,7 @@ layout: page
 * IEEE/ACM Transactions on Audio, Speech, and Language Processing
 * Artificial Intelligence Review
 * Computer Speech & Language
+* PeerJ Computer Science
 
 ### Program Committee
 The 4th New Frontiers in Summarization Workshop (EMNLP 2023)

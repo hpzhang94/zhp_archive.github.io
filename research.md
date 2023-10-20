@@ -29,7 +29,7 @@ title: Publications
 <li> SummIt: Iterative Text Summarization via ChatGPT
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023) (to appear)</b>
-<br><a href = "http://arxiv.org/abs/2305.14835" target="_blank"> [pdf] </a>
+<br><a href = "http://arxiv.org/abs/2305.14835" target="_blank"> [pdf] </a> <a href = "https://github.com/hpzhang94/summ_it"> [code] </a>
 </li>
 <li> Extractive Summarization via ChatGPT for Faithful Summary Generation
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
