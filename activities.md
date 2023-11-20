@@ -31,7 +31,7 @@ layout: page
 ## Services
 
 ### Reviewers
-* AAAI 21/22, KDD 23, EACL 23, ACL 23, IJCNN 23, EMNLP 23, SDM 24
+* AAAI 21/22, KDD 23, EACL 23, ACL 23, IJCNN 23/24, EMNLP 23, SDM 24
 
 * IEEE Transactions on Big Data
 * IEEE/ACM Transactions on Audio, Speech, and Language Processing
