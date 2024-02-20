@@ -30,14 +30,11 @@ layout: page
 
 ## Services
 
-### Reviewers
-* AAAI 21/22, KDD 23, EACL 23, ACL 23, IJCNN 23/24, EMNLP 23, SDM 24
+### Program Committee & Reviewers
+* AAAI 21/22, KDD 23/24, EACL 23, ACL 23, IJCNN 23/24, EMNLP 23, SDM 24, NAACL 24, ACL Rolling Review, NewSumm 23, CODI 24
 
 * IEEE Transactions on Big Data
 * IEEE/ACM Transactions on Audio, Speech, and Language Processing
 * Artificial Intelligence Review
 * Computer Speech & Language
 * PeerJ Computer Science
-
-### Program Committee
-The 4th New Frontiers in Summarization Workshop (EMNLP 2023)

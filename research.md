@@ -16,16 +16,25 @@ title: Publications
 <br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
 </li> -->
 
-<li> A Fine-grained Instruction-based Benchmark for Explainable Text Updates (2023)
-<br><b>Haopeng Zhang</b>, Hayate Iso, Sairam Gurajada, Nikita Bhutani
-<br>arXiv preprint arXiv:2309.11063
-<br><a href = "https://arxiv.org/abs/2309.11063" target="_blank"> [pdf] </a>
-</li>
+<li> Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation
+<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
+<br>arXiv preprint arXiv:2402.11794
+<br><a href = "https://arxiv.org/abs/2402.11794" target="_blank"> [pdf] </a>
+</li> 
+
 </ol>
 
 
 ## Conferences
 <ol>
+
+<li> XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates (2023)
+<br><b>Haopeng Zhang</b>, Hayate Iso, Sairam Gurajada, Nikita Bhutani
+<br>The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
+<br><a href = "https://arxiv.org/abs/2309.11063" target="_blank"> [pdf] </a> <a href = "https://github.com/megagonlabs/xatu"> [code] </a>
+</li>
+
+
 <li> SummIt: Iterative Text Summarization via ChatGPT
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
 <br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023) (to appear)</b>
