@@ -15,9 +15,7 @@ If you are interested in my research, or would like collaborate with me, you are
 
 
 - 02.2024: one first-authored research paper is accepted to LREC-COLING 2024.
-
 - 02.2024: one research paper <a href = "https://arxiv.org/abs/2402.11794" target="_blank">[Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation]</a> is available on arXiv. 
-
 - 10.2023: two first-authored research papers are accepted to Findings of EMNLP 2023.
 <!-- - 09.2023: serve as PC member for SDM 24. -->
 - 09.2023: one first-authored research paper is accepted to IJCNLP-AACL 2023.
@@ -38,7 +36,7 @@ If you are interested in my research, or would like collaborate with me, you are
 
 - Graph4NLP
 - Summarization & Generation
-- Large Language Model
+- Large Language Model & Generative AI
 
 <a href="https://info.flagcounter.com/pYGa"><img src="https://s11.flagcounter.com/count2/pYGa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_30/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 

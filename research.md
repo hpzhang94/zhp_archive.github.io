@@ -33,20 +33,16 @@ title: Publications
 <br>The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
 <br><a href = "https://arxiv.org/abs/2309.11063" target="_blank"> [pdf] </a> <a href = "https://github.com/megagonlabs/xatu"> [code] </a>
 </li>
-
-
 <li> SummIt: Iterative Text Summarization via ChatGPT
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
-<br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023) (to appear)</b>
+<br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023) </b>
 <br><a href = "http://arxiv.org/abs/2305.14835" target="_blank"> [pdf] </a> <a href = "https://github.com/hpzhang94/summ_it"> [code] </a>
 </li>
 <li> Extractive Summarization via ChatGPT for Faithful Summary Generation
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
-<br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023) (to appear)</b>
+<br>Findings of the 2023 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP 2023) </b>
 <br><a href = "https://arxiv.org/abs/2304.04193" target="_blank"> [pdf] </a>
 </li>
-
-
 <li> Unsupervised multi-document summarization with holistic inference
 <br><b>Haopeng Zhang</b>, Sangwoo Cho, Kaiqiang Song, Xiaoyang Wang, Hongwei Wang, Jiawei Zhang, Dong Yu
 <br>Findings of the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 13th International Joint Conference on Natural Language Processing <b>(IJCNLP-AACL 2023)</b>
@@ -71,7 +67,6 @@ title: Publications
 <br><b>Haopeng Zhang</b>, Semih Yavuz, Wojciech Maciej Kryscinski, Kazuma Hashimoto, Yingbo Zhou. 
 <br>Findings of the Association for Computational Linguistics: NAACL 2022 <b>(NAACL 2022)</b> 
 <br><a href = "https://aclanthology.org/2022.findings-naacl.40/"> [pdf] </a>
-
 </li>
 <li> Text Graph Transformer for Document Classification
 <br><b>Haopeng Zhang</b>, Jiawei Zhang. 
