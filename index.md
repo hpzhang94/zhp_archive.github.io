@@ -13,7 +13,7 @@ If you are interested in my research, or would like collaborate with me, you are
 
 ## News
 
-
+- 03.2024: one research paper is accepted to NAACL 2024.
 - 02.2024: one first-authored research paper is accepted to LREC-COLING 2024.
 - 02.2024: one research paper <a href = "https://arxiv.org/abs/2402.11794" target="_blank">[Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation]</a> is available on arXiv. 
 - 10.2023: two first-authored research papers are accepted to Findings of EMNLP 2023.
