@@ -1,5 +1,5 @@
 ---
-title: Activities
+title: Teaching
 layout: page
 ---
 
