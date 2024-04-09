@@ -19,7 +19,7 @@ layout: page
 `Spring 2017, Fall 2017` Semiconductor Devices
 
 
-## Awards
+<!-- ## Awards
 
 * Graduate Group in Computer Science (GGCS) Research Fellowship (2023)
 * FSU Travel Award (2020)
@@ -37,4 +37,4 @@ layout: page
 * IEEE/ACM Transactions on Audio, Speech, and Language Processing
 * Artificial Intelligence Review
 * Computer Speech & Language
-* PeerJ Computer Science
+* PeerJ Computer Science -->

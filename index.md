@@ -5,14 +5,33 @@ layout: home
 # menuorder: 1
 ---
 
-I am a final-year computer science Ph.D. at UC Davis, advised by <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. My research focuses on natural language processing and graph mining, specifically on text summarization, generation and LLM applications.
+I am an incoming tenure-track assistant professor in the information and computer science (ICS) department at <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a>. 
 
-If you are interested in my research, or would like collaborate with me, you are welcome to <a href="mailto:haopeng@ifmlab.org"><u>email me</u></a>.
 
-### I am on the academic job market.
+She received her Ph.D. degree in Electrical and Computer Engineering at Duke University under the supervision of Dr. Hai Helen Li and Dr. Yiran Chen. She received the B.S. degree in Electrical Engineering from Tsinghua University and the M.S. degree in Electrical Engineering from the University of California, Los Angeles (UCLA). Her research interests include emerging nonvolatile memory technologies, robustness and reliability enhancement in processing-in-memory designs, and hardware accelerators for emerging applications.
+
+I received my Ph.D. degree in computer science at UC Davis under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. I received the B.S. degree in Electrical Engineering from University of Illinois, Urbana and Champaign (UIUC) and the M.S. degree in Electrical&Computer Engineering/Computational Science&Engineering from Georgia Institute of Technology (Gatech). My research interests include natural language processing and graph mining, specifically on text summarization, generative AI and LLM applications.
+
+If you are interested in my research, or would like collaborate with me, you are welcome to <a href="mailto:haopengz@hawaii.edu"><u>email me</u></a>.
+
+### I am looking for self-motivated Ph.D students, Master students, and research interns to join my research group!
+
+
+## Research Interests:
+
+- Natural Language Processing
+	- Text Summarization & Generation
+	- Misinformation
+- Generative AI
+	- Large Language Model applications
+	- Multi-modal foundation models
+- Graph Mining
+	- Graph4NLP
+
 
 ## News
 
+- 04.2024: I will join the information and computer science (ICS) department at <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this Augest. Aloha! 
 - 03.2024: one research paper is accepted to NAACL 2024.
 - 02.2024: one first-authored research paper is accepted to LREC-COLING 2024.
 <!-- - 02.2024: one research paper <a href = "https://arxiv.org/abs/2402.11794" target="_blank">[Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation]</a> is available on arXiv.  -->
@@ -30,13 +49,6 @@ If you are interested in my research, or would like collaborate with me, you are
 - 03.2023: receive UC Davis GGCS Research Fellowship.
 - 03.2023: serve as reviewer for ACL 23, IEEE TASLP, IEEE Transactions on Big Data.
 - 02.2023: passed my QE exam.
-
-
-## Research Interests:
-
-- Graph4NLP
-- Summarization & Generation
-- Large Language Model & Generative AI
 
 <a href="https://info.flagcounter.com/pYGa"><img src="https://s11.flagcounter.com/count2/pYGa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_30/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
