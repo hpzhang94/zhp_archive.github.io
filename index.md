@@ -12,7 +12,7 @@ I am an incoming tenure-track assistant professor in the information and compute
 
 ## Biography
 
-I received my Ph.D. degree in computer science at UC Davis under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. I received the B.S. degree in Electrical Engineering from University of Illinois, Urbana and Champaign (UIUC) and the M.S. degree in Electrical&Computer Engineering/Computational Science&Engineering from Georgia Institute of Technology (Gatech). My research interests include natural language processing and graph mining, specifically on text summarization, generative AI and LLM applications. 
+I received my Ph.D. degree in computer science at UC Davis under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. I received the B.S. degree in Electrical Engineering from University of Illinois, Urbana and Champaign (UIUC) and the M.S. degree in Electrical&Computer Engineering / \ Computational Science from Georgia Institute of Technology (Gatech). My research interests include natural language processing and graph mining, specifically on text summarization, generative AI and LLM applications. 
 
 
 ## Research Interests:
@@ -25,6 +25,7 @@ I received my Ph.D. degree in computer science at UC Davis under the supervision
 	- Multi-modal foundation models
 - Graph Mining
 	- Graph4NLP
+- NLP4Science
 
 
 ## News

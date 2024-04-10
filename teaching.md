@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-## Teaching
+### Instructor
 
 ### Teaching Assistant
 

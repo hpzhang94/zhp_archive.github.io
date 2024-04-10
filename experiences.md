@@ -24,7 +24,7 @@ layout: page
         M.S. in Computational Science and Engineeering
     </li>
        <li>
-        M.S. in Electrical Engineering
+        M.S. in Electrical & Computer Engineering
     </li>
 </ul>
 <b> University of Illinois, Urbana and Champaign</b> - Urbana, IL
