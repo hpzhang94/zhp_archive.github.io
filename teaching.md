@@ -6,6 +6,9 @@ layout: page
 
 ### Instructor
 
+`Fall 2024` ICS 661 Advanced Artificial Intelligence
+
+
 ### Teaching Assistant
 
 `Winter 2022` Deep Learning
