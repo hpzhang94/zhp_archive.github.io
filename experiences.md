@@ -1,9 +1,9 @@
 ---
-title: Experiences
+title: <a href="https://nlp-hawaii.github.io/">ALOHA Lab</a>
 layout: page
 ---
 
-## Educational Background
+<!-- ## Educational Background
 
 <b>  University of California, Davis </b> - Davis, CA
 <ul>
@@ -101,7 +101,7 @@ Mentored by <a href="https://scholar.google.co.uk/citations?user=krh3p8AAAAAJ&hl
 </ul>
 
 
-
+ -->
 
 
 
