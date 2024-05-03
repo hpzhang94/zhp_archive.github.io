@@ -21,7 +21,7 @@ layout: page
 <b> Georgia Institute of Technology</b> - Atlanta, GA
 <ul>
    <li>
-        M.S. in Computational Science and Engineeering
+        M.S. in Computational Science and Engineering
     </li>
        <li>
         M.S. in Electrical & Computer Engineering
