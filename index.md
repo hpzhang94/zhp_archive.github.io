@@ -21,19 +21,22 @@ I received my Ph.D. degree in computer science at UC Davis under the supervision
 	- Text Summarization & Generation
 	- Misinformation
 - Generative AI
-	- Large Language Model applications
-	- Multi-modal foundation models
+	- Large Language Models
+	- Multi-modal foundation models, LVLM
+- Interdisciplinary research
+	- NLP4Science
 - Graph Mining
 	- Graph4NLP
-- NLP4Science
+	- Graph LLM
+
 
 
 ## News
 
+- 05.2024: finished my Ph.D. from UC Davis. Officially Dr. Zhang!
 - 04.2024: I will join the information and computer science (ICS) department at <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this Augest. Aloha! 
 - 03.2024: one research paper is accepted to NAACL 2024.
 - 02.2024: one first-authored research paper is accepted to LREC-COLING 2024.
-<!-- - 02.2024: one research paper <a href = "https://arxiv.org/abs/2402.11794" target="_blank">[Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation]</a> is available on arXiv.  -->
 - 10.2023: two first-authored research papers are accepted to Findings of EMNLP 2023.
 <!-- - 09.2023: serve as PC member for SDM 24. -->
 - 09.2023: one first-authored research paper is accepted to IJCNLP-AACL 2023.
@@ -41,7 +44,6 @@ I received my Ph.D. degree in computer science at UC Davis under the supervision
 - 06.2023: one first-authored research paper is accepted to LLM4AI workshop at KDD 23.
 - 06.2023: serve as reviewer for EMNLP 2023, SDM 24 and PC for NewSumm workshop 2023.
 - 05.2023: one first-authored research paper is accepted to ACL 2023 CODI. 
-<!-- - 05.2023: one research paper <a href = "https://arxiv.org/abs/2305.14835" target="_blank">[SummIt: Iterative Text Summarization via ChatGPT]</a> is available on arXiv. -->
 - 05.2023: one first-authored research paper is accepted to Findings of ACL 2023.
 - 04.2023: start my research internship at Megagon Lab.
 <!-- - 04.2023: one research paper <a href = "https://arxiv.org/abs/2304.04193" target="_blank">[Extractive Summarization via ChatGPT for Faithful Summary Generation]</a> is available on arXiv. -->
