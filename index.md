@@ -33,6 +33,8 @@ I received my Ph.D. degree in computer science at UC Davis under the supervision
 
 ## News
 
+- 06.2024: one survey paper to wrap up my Ph.D study <a href = "https://arxiv.org/abs/2406.11289" target="_blank">[A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models]</a> is available on arXiv.
+- 06.2024: one research paper <a href = "https://arxiv.org/abs/2406.11289" target="_blank">[Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval]</a> is available on arXiv.
 - 05.2024: finished my Ph.D. from UC Davis. Officially Dr. Zhang!
 - 04.2024: I will join the information and computer science (ICS) department at <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this Augest. Aloha! 
 - 03.2024: one research paper is accepted to NAACL 2024.

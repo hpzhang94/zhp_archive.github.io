@@ -6,9 +6,21 @@ title: Publications
 ## Preprints
 <ol>
 <li> Graph-Bert: Only Attention is Needed for Learning Graph Representations
-<br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun and Congying Xia. 
-<br>arXiv preprint arXiv:2001.05140.
+<br>Jiawei Zhang, <b>Haopeng Zhang</b>, Li Sun, Congying Xia
+<br>arXiv preprint arXiv:2001.05140
 <br><a href = "https://arxiv.org/abs/2001.05140" target="_blank"> [pdf] </a><a href = "https://github.com/jwzhanggy/Graph-Bert"> [code] </a>
+</li>
+
+<li> A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models
+<br><b>Haopeng Zhang</b>, Philip S. Yu, Jiawei Zhang
+<br>arXiv preprint arXiv:2406.11289
+<br><a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [pdf] </a>
+</li>
+
+<li> Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
+<br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
+<br>arXiv preprint arXiv:2406.11289
+<br><a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [pdf] </a>
 </li>
 <!-- <li> Extractive Summarization via ChatGPT for Faithful Summary Generation
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
@@ -23,13 +35,13 @@ title: Publications
 
 <li> Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
-<br>2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics <b>(to appear at NAACL 2024)</b>
+<br>2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics <b>(NAACL 2024)</b>
 <br><a href = "https://arxiv.org/abs/2402.11794" target="_blank"> [pdf] </a>
 </li> 
 
 <li> XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates (2023)
 <br><b>Haopeng Zhang</b>, Hayate Iso, Sairam Gurajada, Nikita Bhutani
-<br>The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation <b>(to appear at LREC-COLING 2024)</b>
+<br>The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation <b>(LREC-COLING 2024)</b>
 <br><a href = "https://arxiv.org/abs/2309.11063" target="_blank"> [pdf] </a> <a href = "https://github.com/megagonlabs/xatu"> [code] </a>
 </li>
 <li> SummIt: Iterative Text Summarization via ChatGPT
