@@ -39,7 +39,7 @@ title: Publications
 <br><a href = "https://arxiv.org/abs/2402.11794" target="_blank"> [pdf] </a>
 </li> 
 
-<li> XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates (2023)
+<li> XATU: A Fine-grained Instruction-based Benchmark for Explainable Text Updates
 <br><b>Haopeng Zhang</b>, Hayate Iso, Sairam Gurajada, Nikita Bhutani
 <br>The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation <b>(LREC-COLING 2024)</b>
 <br><a href = "https://arxiv.org/abs/2309.11063" target="_blank"> [pdf] </a> <a href = "https://github.com/megagonlabs/xatu"> [code] </a>
