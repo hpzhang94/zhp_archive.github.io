@@ -5,37 +5,35 @@ layout: home
 # menuorder: 1
 ---
 
-I am an incoming tenure-track assistant professor in the information and computer science (ICS) department at <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a>. 
+I am an incoming tenure-track assistant professor in the information and computer sciences (ICS) department at <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a>. 
 
-### I am looking for self-motivated Ph.D students, Master students, and research interns to join my research group!
+### I am looking for self-motivated PhD students, Master students, and research interns to join my research group!
 
 
 ## Biography
 
-I received my Ph.D. degree in computer science at UC Davis under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. I received the B.S. degree in Electrical Engineering from University of Illinois, Urbana and Champaign (UIUC) and the M.S. degree in Electrical&Computer Engineering / Computational Science from Georgia Institute of Technology (Gatech). My research interests include natural language processing and graph mining, specifically on text summarization, generative AI and LLM applications. 
+I earned my Ph.D. in Computer Science from UC Davis under the supervision of <a href="http://jiaweizhang.net/"><u>Dr. Jiawei Zhang</u></a>. I hold a B.S. in Electrical Engineering from the University of Illinois at Urbana-Champaign (UIUC) and two M.S. in Electrical Engineering / Computational Science from the Georgia Institute of Technology (Georgia Tech). My research interests include natural language processing, generative AI, specifically on text summarization, multi-modal LLM, and LLM applications. 
 
 
 ## Research Interests:
 
 - Natural Language Processing
 	- Text Summarization & Generation
-	- Misinformation
+	- Misinformation & Information Retrieval
 - Generative AI
 	- Large Language Models
 	- Multi-modal foundation models, LVLM
 - Interdisciplinary research
-	- NLP4Science
+	- NLP/LLM4Science
 - Graph Mining
 	- Graph4NLP
 	- Graph LLM
 
-
-
 ## News
 
-- 06.2024: one survey paper to wrap up my Ph.D study <a href = "https://arxiv.org/abs/2406.11289" target="_blank">[A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models]</a> is available on arXiv.
-- 06.2024: one research paper <a href = "https://arxiv.org/abs/2406.11289" target="_blank">[Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval]</a> is available on arXiv.
-- 05.2024: finished my Ph.D. from UC Davis. Officially Dr. Zhang!
+- 06.2024: :fire: one survey paper to wrap up my Ph.D study <a href = "https://arxiv.org/abs/2406.11289" target="_blank">[on text summarization]</a> is available on arXiv.
+- 06.2024: :fire: one research paper <a href = "https://arxiv.org/abs/2406.12169" target="_blank">[on LLM knowledge distillation]</a> is available on arXiv.
+- 05.2024: Successfully Completed My Ph.D. at UC Davis. Officially Dr. Zhang! :tada::mortar_board:
 - 04.2024: I will join the information and computer science (ICS) department at <a href="https://www.ics.hawaii.edu/"><u>University of Hawaii at Mānoa</u></a> this Augest. Aloha! 
 - 03.2024: one research paper is accepted to NAACL 2024.
 - 02.2024: one first-authored research paper is accepted to LREC-COLING 2024.

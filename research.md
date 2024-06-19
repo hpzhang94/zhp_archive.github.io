@@ -19,8 +19,8 @@ title: Publications
 
 <li> Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
 <br>Zizhong Li, <b>Haopeng Zhang</b>, Jiawei Zhang
-<br>arXiv preprint arXiv:2406.11289
-<br><a href = "https://arxiv.org/abs/2406.11289" target="_blank"> [pdf] </a>
+<br>arXiv preprint arXiv:2406.12169
+<br><a href = "https://arxiv.org/abs/2406.12169" target="_blank"> [pdf] </a>
 </li>
 <!-- <li> Extractive Summarization via ChatGPT for Faithful Summary Generation
 <br><b>Haopeng Zhang</b>, Xiao Liu, Jiawei Zhang
