@@ -4,11 +4,57 @@ layout: page
 ---
 
 
-### Instructor
-
-`Fall 2024` ICS 661 Advanced Artificial Intelligence
+### `Fall 2024` ICS 661 Advanced Artificial Intelligence
 
 
+## Information
+**Time**: Tuesday and Thursday 10:30 - 11:45 am
+**Location**: POST 318A
+**Instructor**: Haoepeng Zhang (Email: haopengz@hawaii.edu)
+**Office Hours**: TBA
+
+
+## Lectures and Schedules
+
+| **Date** | **Lecture** | **Reading** | **Assignment** |
+|----------|-------------|-------------|----------------|
+| 08/27    |  Overview   |             |                |
+| 08/29    |             |             |                |
+| 09/03    |             |             |                |
+| 09/05    |             |             |                |
+| 09/10    |             |             |                |
+| 09/12    |             |             |                |
+| 09/17    |             |             |                |
+| 09/19    |             |             |                |
+| 09/24    |             |             |                |
+| 09/26    |             |             |                |
+| 10/01    |             |             |                |
+| 10/03    |             |             |                |
+| 10/08    |             |             |                |
+| 10/10    |             |             |                |
+| 10/15    |             |             |                |
+| 10/17    |             |             |                |
+| 10/22    |             |             |                |
+| 10/24    |             |             |                |
+| 10/29    |             |             |                |
+| 10/31    |             |             |                |
+| 11/05    |             |             |                |
+| 11/07    |             |             |                |
+| 11/12    |             |             |                |
+| 11/14    |             |             |                |
+| 11/19    |             |             |                |
+| 11/21    |             |             |                |
+| 11/26    |             |             |                |
+| 12/03    |             |             |                |
+| 12/05    |             |             |                |
+| 12/10    |             |             |                |
+| 12/12    |             |             |                |
+
+
+
+
+
+<!-- 
 ### Teaching Assistant
 
 `Winter 2022` Deep Learning
@@ -19,7 +65,7 @@ layout: page
  
 `Spring 2020` Complexity and Analysis of Data Structures and Algorithms
 
-`Spring 2017, Fall 2017` Semiconductor Devices
+`Spring 2017, Fall 2017` Semiconductor Devices -->
 
 
 <!-- ## Awards
